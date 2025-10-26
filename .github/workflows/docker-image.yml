@@ -45,8 +45,7 @@ jobs:
     #   run: |
     #     docker push ncriollo/docker-graphql:0.0.1
     #     docker push ncriollo/docker-graphql:latest
-
-
+    
        
     # - name: Build the Docker image
     #   run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
